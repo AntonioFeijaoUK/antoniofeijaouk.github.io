@@ -8,7 +8,7 @@
 
 
 ## How to build your [github.io](https://github.com) page
-> thanks to (https://github.com)(https://pages.github.com/)
+> thanks to [github.com](https://pages.github.com/)
 
 * 1. Create a repository - ```username.github.io```
 
