@@ -12,7 +12,9 @@
 
 > thanks to [developius](https://gist.github.com/developius/c81f021eb5c5916013dc)
 
-```git remote set-url origin git@github.com:feijaouk/feijaouk.github.io```
+```shell
+git remote set-url origin git@github.com:feijaouk/feijaouk.github.io
+```
 
 --- 
 
@@ -38,7 +40,7 @@ git clone git@github.com:feijaouk/feijaouk.github.io.git
 
 * 3 - Create index file
 
-```sheel
+```shell
 index.html or index.md
 
 cd username.github.io
