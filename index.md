@@ -12,7 +12,10 @@
 > thank to (https://gitub.com)(https://pages.github.com/)
 
 1. Create a repository - ```username.github.io```
-2. Clone repository - ```git clone https://github.com/username/username.github.io```
+
+2a. Clone repository (https) - ```git clone https://github.com/username/feijaouk.github.io```
+2b. Clone a repository (ssh) - ```git clone git@github.com:feijaouk/feijaouk.github.io.git```
+
 3. Create ```index.html```
 
 > cd username.github.io
