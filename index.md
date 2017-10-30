@@ -9,7 +9,7 @@
 
 ## [github.io](https://github.com)
 
-> thank to (https://gitub.com)(https://pages.github.com/)
+> thank to (https://github.com)(https://pages.github.com/)
 
 1. Create a repository - ```username.github.io```
 
