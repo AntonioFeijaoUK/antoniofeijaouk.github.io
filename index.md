@@ -21,22 +21,28 @@
 > thanks to [github.com](https://pages.github.com/)
 
 * 1 -  Create a repository
-```username.github.io```
+```shell
+username.github.io
+```
 
 * 2a - Clone repository using **https**
-```git clone https://github.com/username/feijaouk.github.io```
+```shell
+git clone https://github.com/username/feijaouk.github.io
+```
 
 * 2b - or Clone a repository using **ssh**
 
-```git clone git@github.com:feijaouk/feijaouk.github.io.git```
+```shell
+git clone git@github.com:feijaouk/feijaouk.github.io.git
+```
 
 * 3 - Create index file
 
-```index.html``` or ```index.md```
+```sheel
+index.html or index.md
 
-```shell
-  cd username.github.io
-  $echo "Hello World" > index.html
+cd username.github.io
+$echo "Hello World" > index.html
 ```
 
 * 4 - **Add** it, **Commit** it, and **Push** it!
