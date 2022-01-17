@@ -1,3 +1,3 @@
-Visit my personal webpage at [AntonioFeijao.com](https://antoniofeijao.com)
+Visit my personal webpage at [https://AntonioFeijao.com](https://antoniofeijao.com)
 
-![harder_better_faster_stronger](./harder_better_faster_stronger.jpg)
+![harder_better_faster_stronger](/harder_better_faster_stronger.jpg)
